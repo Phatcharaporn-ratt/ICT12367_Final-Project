@@ -87,5 +87,3 @@ Navigation Bar,
 
 ---
 
-การติดตั้งระบบ (Installation),
-1️ Clone Project จาก GitHub
